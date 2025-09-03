@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Akib 👋
+I'm a CST student at City Tech specializing in databases, data analysis, and IT systems.  
+
+- 🔭 Current Project: Flat-Rate Cleaning Website (HTML/CSS)  
+- 📊 Interests: Data Analysis, Business Systems, IT Support  
+- 🌐 LinkedIn: [linkedin.com/in/akib-islam1](https://linkedin.com/in/akib-islam1)  
+
 
 <!--
 **Akib-Islam1/Akib-Islam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
